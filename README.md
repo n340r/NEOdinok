@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Gosha
+# Hi there 👋
 
 - 🇬🇧 I live in London, England.
 - 🐍 I do full-stack dev stuff.
