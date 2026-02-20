@@ -1,8 +1,8 @@
 # Hi there 👋
 
-- 🇬🇧 I live in London, England.
+- 🇬🇧 I live in Berlin, Germany.
 - 🐍 I do full-stack dev stuff.
-- 🤖 I write code for **8+ years** Most of the time in `TypeScript`, `Python`, `Go`.
+- 🤖 I write code for **8+ years** Most of the time in `Go`, `TypeScript`.
 - 🚀 I love pet-projects. They help me grow professionally all my life.
 - ✉️ You can shoot me an email at [georgefulldev@gmail.com](mailto:georgefulldev@gmail.com).
 
